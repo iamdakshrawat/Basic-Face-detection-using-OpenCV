@@ -1,2 +1,4 @@
 # Basic-Face-detection-using-OpenCV
-A basic python program for detecting faces.
+This is a basic python program for detecting faces.
+Make sure to install OpenCV library before running the code.
+Use command -> pip install opencv-python
